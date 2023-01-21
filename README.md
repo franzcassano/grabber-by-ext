@@ -19,4 +19,5 @@ Scraping Domain List By Domain Extension
 ## Screenshots
 ---
 ![Screenshot](https://raw.githubusercontent.com/franzcassano/grabber-by-ext/main/Screenshot%20(25).png)
+
 ![Screenshot](https://raw.githubusercontent.com/franzcassano/grabber-by-ext/main/Screenshot%20(26).png)
